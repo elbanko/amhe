@@ -25,7 +25,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['herokuapp.com', 'glacial-temple-55661.herokuapp.com', 'attorneymentalhealtheducation.com']
+ALLOWED_HOSTS = ['herokuapp.com', 'glacial-temple-55661.herokuapp.com', 'attorneymentalhealtheducation.com', 'www.attorneymentalhealtheducation.com']
 
 
 # Application definition
