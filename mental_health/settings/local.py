@@ -13,7 +13,7 @@ SECRET_KEY = '=s395@-^t)yv4inn=d7ule+#a$ekq^l+8$oo@#e#e*g_k=(h(g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['herokuapp.com', 'glacial-temple-55661.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
