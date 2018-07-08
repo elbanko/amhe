@@ -11,9 +11,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 SECRET_KEY = os.environ.get('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['herokuapp.com', 'glacial-temple-55661.herokuapp.com', 'attorneymentalhealtheducation.com', 'www.attorneymentalhealtheducation.com']
+ALLOWED_HOSTS = ['herokuapp.com', 'glacial-temple-55661.herokuapp.com', 'attorneymentalhealtheducation.com', 'www.attorneymentalhealtheducation.com', '127.0.0.1']
 
 
 # Application definition
